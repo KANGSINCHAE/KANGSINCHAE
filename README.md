@@ -10,6 +10,7 @@
 ### Team Project
 
 <a href="https://github.com/KANGSINCHAE/OSS-Project/blob/main/OSS%EC%97%AD%EC%82%AC%EC%99%80%EA%B0%9C%EC%9A%94.md">OSS 역사와 개요</a>
+<br>
 [Git 교과서 5장](https://github.com/KANGSINCHAE/OSS-Project/blob/main/Git%EA%B5%90%EA%B3%BC%EC%84%9C5%EC%9E%A5%EC%9A%94%EC%95%BD.md)
 
 ### Tech Stack
