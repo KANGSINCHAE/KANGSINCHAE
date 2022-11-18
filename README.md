@@ -6,6 +6,11 @@
 |20181833|**강성관**|컴퓨터소프트웨어공학과|https://github.com/KangSeongKwan|
 |20181820|**신경식**|컴퓨터소프트웨어공학과|https://github.com/sks8960|
 |20181844|**채승현**|컴퓨터소프트웨어공학과|https://github.com/azsu3598|
+
+### Team Project
+
+<a href="https://github.com/KANGSINCHAE/OSS-Project/blob/main/OSS%EC%97%AD%EC%82%AC%EC%99%80%EA%B0%9C%EC%9A%94.md">OSS 역사와 개요</a>
+
 ### Tech Stack
 <p>
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white" width=90px, height=30px/>
