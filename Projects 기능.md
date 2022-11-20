@@ -23,7 +23,7 @@
 ![board](https://user-images.githubusercontent.com/101855945/202894207-164f94b9-660b-491a-b032-26e31252b5ab.JPG)
 
 
-### template 종류
+### emplate 종류
 -	None : 아무 것도 없이 프로젝트만 생성
 -	Basic Kanban : To Do, In Progress, Done 이 생성
 -	Automated Kanban : To do, In Progress, Done 이 생성 (위에와 다른 것은 자동화 지원)
