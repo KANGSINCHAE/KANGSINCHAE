@@ -30,7 +30,7 @@
     - 동적인 데이터를 다룰 때 사용하며, 사용자와의 상호작용을 통해 데이터를 동적으로 변경할 때 사용한다.
     - 래스형 컴포넌트에서만 사용할 수 있고, 각각의 state는 독립적이다.
 5. JSX
-  - 자바스크립트와 HTML을 동시에 사용하며, HTML에 자바스크립트의 변수들을 바로 사용할 수 있는 일종의 템플릿 언어(Template language)이다.
-  - ![image](https://user-images.githubusercontent.com/101856066/203021605-ce6d402c-7bb1-4758-b0c0-70f05af6e4e7.png)
+  - 자바스크립트와 HTML을 동시에 사용하며, HTML에 자바스크립트의 변수들을 바로 사용할 수 있는 일종의 템플릿 언어(Template language)이다.  
+  ![image](https://user-images.githubusercontent.com/101856066/203021605-ce6d402c-7bb1-4758-b0c0-70f05af6e4e7.png)
   - 위와 같이 자바스크립트에서 HTML 태그를 사용할 수 있으며, 자바스크립트 변수를 HTML 태그에서 바로 호출하여 사용할 수 있다.
   - React가 더욱 도움이 되는 에러 및 경고 메시지를 표시할 수 있게 해준다.
