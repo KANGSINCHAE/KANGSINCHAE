@@ -22,7 +22,7 @@
 ![image](https://user-images.githubusercontent.com/113485036/202964514-d24af765-b9a6-4936-a627-8335e5d9e31a.png)
 
 # Merge의 종류
-- Merge Pull Request를 하는 방식에는 merge commit을 만드는 방법, squash and merge, rebase and merge 같이 3가지 방법이 있다.
+- Merge Pull Request를 하는 방식에는 merge commit을 만드는 방법, squash and merge, rebase and merge 같이 3가지 방법이 있다.  
 ![image](https://user-images.githubusercontent.com/113485036/202966170-09b8d11d-b6e6-49b9-a329-89f6ded889fe.png)
 
 ### Create a merge commit
