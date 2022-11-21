@@ -23,9 +23,20 @@
 ![board](https://user-images.githubusercontent.com/101855945/202894207-164f94b9-660b-491a-b032-26e31252b5ab.JPG)
 
 
-### emplate 종류
+### Template 종류
 -	None : 아무 것도 없이 프로젝트만 생성
 -	Basic Kanban : To Do, In Progress, Done 이 생성
 -	Automated Kanban : To do, In Progress, Done 이 생성 (위에와 다른 것은 자동화 지원)
 -	Automated Kanban with reviews : To do, In Progress, Done, Reviewer Approved Done 생성
 -	Bug griage L Needs triage, High priority, Low priority, Close가 생성
+
+### Public과 Private 설정
+- 기본적으로 Project 생성하는 경우 Private로 설정
+- Project를 생성한 후에 Setting으로 들어가 변경이 필요
+
+![1](https://user-images.githubusercontent.com/101855945/203029907-b67ddfbb-2054-40b4-ab25-e2676ef6f445.png)
+
+### Invite
+- Invite기능을 통해 Project 사용 권한 부여 가능
+
+![3](https://user-images.githubusercontent.com/101855945/203030030-2d629f3b-02ca-4eaf-8f47-a0ac7d517203.png)
