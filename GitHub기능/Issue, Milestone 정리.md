@@ -70,3 +70,7 @@
 <img width="329" alt="image" src="https://user-images.githubusercontent.com/101856066/203286114-cfa33901-2170-4981-ae7a-e04a63de6880.png">
 
 - Delete버튼을 누를시에 나오며 Delete this milestone을 누름으로써 삭제 할 수 있다.
+
+## 사용평가
+- 이슈와 마인스톤을 활용하여 팀원과의 협업 시에 진행 상황을 알 수 있어서 좋았다.
+- 마일스톤 진척도를 알 수 있어 남은 시간을 산출 할 수 있어서 좋았다.
